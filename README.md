@@ -3,7 +3,7 @@
 
 ## 運行
 > [!TIP]
-> 以源代碼運行本項目需要有 Golang 環境。
+> 以原始碼運行本項目需要有 Golang 環境。
 
 Clone 本項目至本地，並在項目根目錄下運行：
 ```bash
@@ -14,7 +14,7 @@ go run main.go
 ### Command-line Arguments
 ```bash
 -port   # 設定 Web 服務運行的端口號
--dicts  # 設定服務需要引入的詞典（預設引入 s2tw、導入多個詞典時以 + 號分隔）
+-dicts  # 設定服務需要引入的詞典（預設引入 s2tw、引入多個詞典時以 + 號分隔）
 ```
 
 ## 使用
